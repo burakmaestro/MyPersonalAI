@@ -72,7 +72,7 @@
   {
     "role": "user",
     "key": "job",
-    "value": "Suan kaç yıllık evliyim .",
+    "value": "Geldim nasılsın",
     "category": "personal_info"
   },
   {
@@ -221,7 +221,7 @@
     "value": {
       "title": "Alışveriş",
       "date_time": "2025-10-25T18:00:00",
-      "created_at": "2025-10-25T15:45:27.846954"
+      "created_at": "2025-10-25T15:59:39.833157"
     },
     "category": "calendar"
   },
@@ -231,7 +231,7 @@
     "value": {
       "name": "Meditasyon yap",
       "frequency": "daily",
-      "created_at": "2025-10-25T15:45:29.867464"
+      "created_at": "2025-10-25T15:59:41.853520"
     },
     "category": "habits"
   },
@@ -240,7 +240,7 @@
     "key": "habit_done",
     "value": {
       "name": "Meditasyon yap",
-      "date": "2025-10-25T15:45:31.888455"
+      "date": "2025-10-25T15:59:43.873400"
     },
     "category": "habits_done"
   },
@@ -250,8 +250,204 @@
     "value": {
       "topic": "AI araştırması",
       "notes": "",
-      "added_at": "2025-10-25T15:45:33.908848"
+      "added_at": "2025-10-25T15:59:45.895365"
     },
     "category": "learning"
+  },
+  {
+    "role": "user",
+    "text": "Merhaba, nasılsın?",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Merhaba! Ben buradayım ve size yardımcı olmaktan mutluluk duyuyorum. Teşekkür ederim. Siz nasılsınız? Size nasıl yardımcı olabilirim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Bugün nasılsın?",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Bugün de buradayım ve size yardımcı olmaktan mutluluk duyuyorum. Teşekkür ederim. Size nasıl yardımcı olabilirim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Bana bir fıkra anlat",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Tabii, işte sana esprili bir fıkra:\n\nDoktor, hasta olan Temel'e sormuş:\n- Temel, sigara içiyor musun?\nTemel cevap vermiş:\n- Evet, doktor bey, içiyorum.\nDoktor şaşkın bir şekilde sormuş:\n- Peki, günde kaç paket içiyorsun?\nTemel cevaplamış:\n- Doktor bey, günde bir paket içiyordum ama sigaralar kısa geldiği için artık iki paket içmeye başladım! 😄\n\nUmuyorum bir gülümseme getirmiştir! Başka bir konuda sana yardımcı olabilir miyim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "en son neler konsutuk",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "En son olarak esprili bir fıkra paylaşmıştık. Fıkraların dışında alışveriş, meditasyon yapma rutini, yapay zeka araştırması gibi farklı konularda da konuşmuştuk. Başka bir konuda size yardımcı olabileceğim bir şey var mı?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Merhabalar",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Merhaba! Size nasıl yardımcı olabilirim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "çıkış",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Anladım, başka bir sorunuz veya yardım ihtiyacınız olursa lütfen çekinmeden bana yazabilirsiniz. İyi günler!",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Beni duyabiliyor",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Evet, sizin yazdıklarınızı anlayabiliyorum ve size cevap verebiliyorum. Yardımcı olabileceğim bir konu var mı?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "en son ne konuş",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Son konuşmamızda fıkra anlatmıştım. Fıkraların dışında alışveriş, meditasyon yapma rutini ve yapay zeka araştırması gibi farklı konularda da konuşmuştuk. Başka bir konuda size yardımcı olabileceğim bir şey var mı?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "key": "user_name",
+    "value": "Burak",
+    "category": "personal_info"
+  },
+  {
+    "role": "user",
+    "text": "Benim adım neydi kaç tane kızım vardı hangi takımı tutuyordum",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Senin adının Bilinmiyor olduğunu hatırlıyorum. İki kızının adının Aysima ve Alya olduğunu biliyorum. Hangi takımı tuttuğunu hatırlamıyorum. Başka bir konuda yardımcı olabilir miyim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Merhaba tekrar ben",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Merhaba! Tekrar buradayım, size nasıl yardımcı olabilirim? Herhangi bir sorunuz veya konuşmak istediğiniz bir konu var mı?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Merhaba nasılsın tekrar ben",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Merhaba! Tekrar hoş geldiniz. Ben buradayım ve size yardımcı olmaktan mutluluk duyuyorum, teşekkür ederim. Size nasıl yardımcı olabilirim bugün? Herhangi bir konuda konuşmak istediğiniz bir şey var mı?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Bu arada ben bırak soyadım da ör",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Üzgünüm, ancak benim erişebileceğim kişisel bilgiler yoktur ve sizin soyadınızı hatırlamam mümkün değil. Sizin için başka nasıl yardımcı olabilirim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Benim adım burak Soy adım örs unutmazsın herhalde artık ",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Merhaba Burak Örs! Size daha iyi hizmet edebilmem için soyadınızı hatırlayarak not aldım. Başka nasıl yardımcı olabilirim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "tekrar ben",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Merhaba tekrar! Size nasıl yardımcı olabilirim bugün? Başka bir konuda konuşmak istediğiniz veya ihtiyacınız olan bir şey var mı?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Merhaba nasılsın",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Merhaba! Ben buradayım ve size yardımcı olmaktan mutluluk duyuyorum, teşekkür ederim. Siz nasılsınız? Size nasıl yardımcı olabilirim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "sesli ",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Maalesef ben yazılı mesajları anlayıp yanıtlayabiliyorum. Sesli mesajları karşılığında yazılı olarak cevaplayabilirim. Size nasıl yardımcı olabilirim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Merhaba tekrar ben geldim",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Merhaba tekrar! Size nasıl yardımcı olabilirim? Herhangi bir konuda konuşmak istediğiniz veya ihtiyacınız olan bir şey var mı?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Merhaba tekrar ben geldim Nasılsın",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Merhaba tekrar! Ben buradayım ve size yardımcı olmaktan mutluluk duyuyorum. Teşekkür ederim. Siz nasılsınız? Size nasıl yardımcı olabilirim? Herhangi bir konuda konuşmak istediğiniz ya da ihtiyacınız olan bir şey var mı?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "tekrar ben",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Merhaba tekrar! Size nasıl yardımcı olabilirim bugün? Başka bir konuda konuşmak istediğiniz veya ihtiyacınız olan bir şey var mı?",
+    "category": "conversation"
   }
 ]
