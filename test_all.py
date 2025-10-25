@@ -1,10 +1,14 @@
 import time
+from datetime import datetime
 from modules.weather import get_weather
 from modules.news import get_top_headlines
 from modules.wikipedia_tools import get_wikipedia_summary
 from modules.math_engine import calculate_expression
 from modules.image_generator import generate_image
 from modules.chat_engine import generate_response
+from modules.calendar_manager import add_event, list_events, get_upcoming_events
+from modules.habit_tracker import add_habit, mark_habit_done, get_habits, get_habit_streak
+from modules.learning_manager import add_learning, list_learnings, get_learning_summary
 
 def print_header(title):
     print("\n" + "="*10 + f" {title} " + "="*10)
@@ -21,7 +25,7 @@ for p in prompts:
 print_header("HAVA DURUMU")
 cities = ["İstanbul", "Ankara"]
 for city in cities:
-    print(f"Hava durumu {city}: {get_weather(city)}")
+    print(f"{city}: {get_weather(city)}")
     time.sleep(1)
 
 # 3️⃣ Wikipedia özet
@@ -31,7 +35,7 @@ for q in queries:
     print(f"{q}: {get_wikipedia_summary(q)}")
     time.sleep(1)
 
-# 4️⃣ Haberler (RSS)
+# 4️⃣ Haberler
 print_header("HABERLER")
 queries = [None, "teknoloji", "spor"]
 for q in queries:
@@ -53,5 +57,48 @@ for msg in messages:
     print(f"Mesaj: {msg}")
     print("Cevap:", generate_response(msg))
     time.sleep(1)
+
+# 7️⃣ Calendar / Etkinlikler
+print_header("CALENDAR / ETKİNLİKLER")
+events = [("Toplantı", "2025-10-25 15:00"), ("Alışveriş", "2025-10-25 18:00")]
+for name, dt_str in events:
+    dt = datetime.strptime(dt_str, "%Y-%m-%d %H:%M")  # string → datetime
+    print(f"Etkinlik ekle: {name} - {dt}")
+    print(add_event(name, dt))
+    time.sleep(1)
+
+print("Tüm etkinlikler:", list_events())
+print("Yaklaşan etkinlikler:", get_upcoming_events())
+
+print("Tüm etkinlikler:", list_events())
+print("Yaklaşan etkinlikler:", get_upcoming_events())
+
+# 8️⃣ Habit tracker
+print_header("HABIT TRACKER")
+habits = ["Su iç", "Meditasyon yap"]
+for habit in habits:
+    print(f"Alışkanlık ekle: {habit}")
+    print(add_habit(habit))
+    time.sleep(1)
+
+for habit in habits:
+    print(f"Alışkanlık yaptım: {habit}")
+    print(mark_habit_done(habit))
+    time.sleep(1)
+
+print("Alışkanlıklar:", get_habits())
+for habit in habits:
+    print(f"{habit} serisi:", get_habit_streak(habit))
+
+# 9️⃣ Learning manager
+print_header("LEARNING MANAGER")
+topics = ["Python öğreniyorum", "AI araştırması"]
+for topic in topics:
+    print(f"Öğreniyorum: {topic}")
+    print(add_learning(topic))
+    time.sleep(1)
+
+print("Öğrendiklerim:", list_learnings())
+print("Özet:", get_learning_summary())
 
 print("\n✅ Tüm testler tamamlandı!")

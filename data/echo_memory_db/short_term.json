@@ -1,102 +1,102 @@
 [
   {
     "role": "user",
-    "text": "az önce ne konuştuk",
+    "text": "Bana bir fıkra anlat",
     "category": "conversation"
   },
   {
     "role": "assistant",
-    "text": "Az önce senin iki kızın Aysima ve Alya olduğunu, yapay zeka geliştiricisi olduğunu ve hava hakkında konuştuğumuzu hatırlıyorum. Başka yardımcı olabileceğim bir konu var mı?",
+    "text": "Tabii, işte sana esprili bir fıkra: \n\nTemel, internet üzerinden alışveriş yapmış. Bir süre sonra kargo gelmiş, içinde ise su geçirmez saat varmış. Temel saatini alır almaz hemen suyun içine atmış. Sonra da anlamış ki, bu saatin su geçirmez olması demek, suyun içinde çalışabileceği anlamına gelmiyormuş! 😄\nUmuyorum biraz gülümsemene sebep olmuştur! Başka birşeyde yardımcı olabilir miyim? ",
     "category": "conversation"
   },
   {
     "role": "user",
-    "text": "az önce ne konustuk",
+    "text": "Merhaba, nasılsın?",
     "category": "conversation"
   },
   {
     "role": "assistant",
-    "text": "Az önce yapay zeka geliştiricisi olduğunu ve hava durumu hakkında konuştuk. Ayrıca iki kızının adının Aysima ve Alya olduğunu hatırlıyorum. Başka yardımcı olabileceğim bir konu var mı?",
+    "text": "Merhaba! Ben buradayım ve size yardımcı olmaktan mutluluk duyuyorum. Teşekkür ederim. Size nasıl yardımcı olabilirim?",
     "category": "conversation"
   },
   {
     "role": "user",
-    "text": "Benim çocuk sayımı ve işimi söyle.",
+    "text": "Bugün nasılsın?",
     "category": "conversation"
   },
   {
     "role": "assistant",
-    "text": "Üzgünüm, benim kişisel bilgilere erişimim yok ve geçmiş konuşmalarımızda bu konuları belirtmedin. Ancak eğer çocuklarının isimlerini tekrar belirtirsen, hatırlarım. İşin hakkında da ayrıntı verirsen, sana daha iyi yardımcı olabilirim.",
+    "text": "Bugün de buradayım ve size yardımcı olmaktan mutluluk duyuyorum. Teşekkür ederim. Size nasıl yardımcı olabilirim?",
     "category": "conversation"
   },
   {
     "role": "user",
-    "text": "Dün neler konuştuk?",
+    "text": "Bana bir fıkra anlat",
     "category": "conversation"
   },
   {
     "role": "assistant",
-    "text": "Özür dilerim, benim kısa süreli hafıza özelliğim olduğu için dünkü konuşmamızı hatırlamıyorum. Yine de sana nasıl yardımcı olabilirim?",
+    "text": "Tabii, işte sana esprili bir fıkra:\n\nHoca sınıfta öğrencilere soruyormuş:\n- İnsan hangi organını en çok kullanır?\nÖğrencilerden Ali hemen atılmış:\n- Beyni hoca, beyin!\nHoca gülerek cevap vermiş:\n- Hayır Ali, düşün hatalısın. İnsan en çok dilini kullanır.\nAli şaşkın bir şekilde sormuş:\n- Peki hoca, niçin?\nHoca cevaplamış:\n- Çünkü sürekli başkalarının işlerine burnunu sokar! 😄\n\nUmuyorum sana biraz gülümseme getirmiştir! Başka bir konuda sana yardımcı olabilir miyim?",
     "category": "conversation"
   },
   {
     "role": "user",
-    "text": "cık",
+    "text": "Merhaba, nasılsın?",
     "category": "conversation"
   },
   {
     "role": "assistant",
-    "text": "Anladım, yardımcı olabileceğim başka bir konu var mı?",
+    "text": "Merhaba! Ben buradayım ve size yardımcı olmaktan mutluluk duyuyorum. Teşekkür ederim. Size nasıl yardımcı olabilirim?",
     "category": "conversation"
   },
   {
     "role": "user",
-    "text": "az önce ne konuştuk",
+    "text": "Bugün nasılsın?",
     "category": "conversation"
   },
   {
     "role": "assistant",
-    "text": "Az önce yapay zeka geliştiricisi olduğunu ve hava durumu hakkında konuştuk. Ayrıca iki kızının adının Aysima ve Alya olduğunu hatırlıyorum. Başka yardımcı olabileceğim bir konu var mı?",
+    "text": "Bugün de buradayım ve size yardımcı olmaktan mutluluk duyuyorum. Teşekkür ederim. Size nasıl yardımcı olabilirim?",
     "category": "conversation"
   },
   {
     "role": "user",
-    "text": "galatasaray hakkında ne düşünüyorsun",
+    "text": "Bana bir fıkra anlat",
     "category": "conversation"
   },
   {
     "role": "assistant",
-    "text": "Galatasaray, Türkiye'nin köklü futbol takımlarından biridir ve geniş bir taraftar kitlesine sahiptir. Kulüp tarihi boyunca birçok başarı elde etmiş ve önemli oyuncuları bünyesinde barındırmıştır. Türk futbolunda önemli bir yere sahip olan Galatasaray, ulusal ve uluslararası arenada birçok başarılı sonuç elde etmiştir. Bu yönüyle Türk futbolunun önemli bir parçası olarak kabul edilir. Tabii ki her futbol takımı gibi taraftarları arasında tutku ve bağlılık yaratan bir kulüptür. Siz Galatasaray hakkında ne düşünüyorsunuz?",
+    "text": "Tabii, işte sana esprili bir fıkra:\n\nDoktor hasta olan Temel'e sormuş:\n- Temel, sen hiç alkol tüketiyor musun?\nTemel cevap vermiş:\n- Evet, doktor bey, özellikle yılbaşı geceleri, doğum günlerimde, düğünlerde, kutlamalarda...\nDoktor şaşkın bir şekilde sormuş:\n- Peki, peki, diğer günler?\nTemel gülerek yanıtlamış:\n- Diğer günlerse, o zaman içmem, doktor bey! 😄\n\nUmuyorum sana bir gülümseme getirmiştir! Başka bir konuda sana yardımcı olabilir miyim?",
     "category": "conversation"
   },
   {
     "role": "user",
-    "text": "Benim Eşim var adı ayşegül 28 11 2015 de evlendık . ve onu çok seviyorum",
+    "text": "Merhaba, nasılsın?",
     "category": "conversation"
   },
   {
     "role": "assistant",
-    "text": "Ayşegül ile 28 Kasım 2015'te evlendiğinizi ve onu çok sevdiğinizi belirttiniz. Ayşegül'e duyduğunuz sevgi bireysel ve özel bir duygudur. Evlilik, sevginin ve birlikteliğin önemli bir göstergesidir. Ayşegül'e olan sevginizi onunla paylaşmaya ve ilişkinizi daha da güçlendirmeye devam etmeniz güzel bir duygudur. Size ve Ayşegül'e uzun ve mutlu bir yaşam dilerim. Eşiniz ve sizin aranızdaki sevgi ve birliktelik, hayatınız boyunca size mutluluk ve huzur getirsin.",
+    "text": "Merhaba! Ben buradayım ve size yardımcı olmaktan mutluluk duyuyorum. Teşekkür ederim. Size nasıl yardımcı olabilirim?",
     "category": "conversation"
   },
   {
     "role": "user",
-    "text": "teşekkür ediyorum o zaman ben suan kaç yıllık evliyim .",
+    "text": "Bugün nasılsın?",
     "category": "conversation"
   },
   {
     "role": "assistant",
-    "text": "Ayşegül ile 2015 yılında evlendiğinizi belirttiniz, dolayısıyla şu anda 6 yıllık evlisiniz. Umarım güzel ve mutlu bir evlilik hayatınız olmuştur. Başka bir konuda size yardımcı olabileceğim bir şey var mı?",
+    "text": "Bugün de buradayım ve size yardımcı olmaktan mutluluk duyuyorum. Teşekkür ederim. Size nasıl yardımcı olabilirim?",
     "category": "conversation"
   },
   {
     "role": "user",
-    "text": "2025 den 2015 çıkarınca 6 yıl mı oluyor .",
+    "text": "Bana bir fıkra anlat",
     "category": "conversation"
   },
   {
     "role": "assistant",
-    "text": "Evet, 2025 ile 2015 arasındaki farkı hesaplarsak 10 yıl elde ederiz. Dolayısıyla 2025'ten 2015 çıkarıldığında sonuç gerçekten 10 yıldır, yanlışlıkla 6 yıl olarak belirtmişim özür dilerim. Ayşegül ile 2015 yılında evlendiğinizi söylediğiniz için sizin şu anda 10 yıllık evli olduğunuzu düzeltmek isterim. Teşekkürler hatırlattığın için. Başka bir şeyde yardımcı olabilir miyim?",
+    "text": "Tabii, işte sana esprili bir fıkra:\n\nTemel, eşeğini kaybeder ve komşularıyla birlikte aramaya başlar. Aradıkları sırada eşeği gören biri, \"İşte eşeğin orada, ama üzerinde bir adam var!\" der. Komşular hemen yanına gelir ve merakla sorarlar, \"Temel, ne yapıyorsun eşeğin üstünde?\" Temel de cevaplar: \"Benim eşeğimse, ben de otururum!\" 😄\n\nUmuyorum sana bir gülümseme getirmiştir! Başka bir konuda sana yardımcı olabilir miyim?",
     "category": "conversation"
   }
 ]

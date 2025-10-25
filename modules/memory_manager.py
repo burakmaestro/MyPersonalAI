@@ -31,11 +31,18 @@ def get_monthly_file():
         month_file.write_text("[]", encoding="utf-8")
     return month_file
 
+def load_long_term_memory():
+    """Uzun süreli hafızayı tüm aylık dosyalardan yükler"""
+    memories = []
+    for file in MONTHLY_DIR.glob("*.json"):
+        memories.extend(load_memory(file))
+    return memories
+
 # --- Hafıza Fonksiyonları ---
 def add_to_memory(role, text=None, category="conversation", key=None, value=None):
     """
     Mesaj veya kişisel bilgiyi hafızaya ekler.
-    category: conversation, personal_info, preference, fact
+    category: conversation, personal_info, preference, fact, reminders
     """
     if key:  # Kişisel bilgi ekleme / güncelleme
         month_file = get_monthly_file()
@@ -67,18 +74,16 @@ def query_memory(limit=10):
     short_term = load_memory(SHORT_TERM_FILE)
     return short_term[-limit:]
 
-def query_long_term(last_n=None):
-    """Tüm aylık dosyalardan long-term hafıza verilerini döndürür"""
-    memories = []
-    for file in sorted(MONTHLY_DIR.glob("*.json")):
-        memories.extend(load_memory(file))
-    if last_n:
-        memories = memories[-last_n:]
-    return memories
+def query_long_term(category=None):
+    """Uzun süreli hafızadan verileri getirir. Category ile filtrelenebilir."""
+    results = load_long_term_memory()
+    if category:
+        results = [m for m in results if m.get("category") == category]
+    return results
 
 def query_personal_info(key):
     """Long-term hafızadan kişisel bilgiyi getirir"""
-    memories = query_long_term()
+    memories = query_long_term(category="personal_info")
     for item in reversed(memories):
         if item.get("key") == key:
             return item.get("value")
@@ -86,9 +91,8 @@ def query_personal_info(key):
 
 def get_conversation_summary(last_n=20):
     """Long-term hafızadan son n konuşmayı özet olarak döndürür"""
-    memories = query_long_term()
-    conversation = [m for m in memories if m.get("category") == "conversation"]
-    if not conversation:
+    memories = query_long_term(category="conversation")
+    if not memories:
         return "Önceki konuşma bulunamadı."
-    summary = "\n".join([f"{m['role']}: {m['text']}" for m in conversation[-last_n:]])
+    summary = "\n".join([f"{m['role']}: {m['text']}" for m in memories[-last_n:]])
     return summary

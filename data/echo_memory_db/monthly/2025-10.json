@@ -94,5 +94,164 @@
     "role": "assistant",
     "text": "Evet, 2025 ile 2015 arasındaki farkı hesaplarsak 10 yıl elde ederiz. Dolayısıyla 2025'ten 2015 çıkarıldığında sonuç gerçekten 10 yıldır, yanlışlıkla 6 yıl olarak belirtmişim özür dilerim. Ayşegül ile 2015 yılında evlendiğinizi söylediğiniz için sizin şu anda 10 yıllık evli olduğunuzu düzeltmek isterim. Teşekkürler hatırlattığın için. Başka bir şeyde yardımcı olabilir miyim?",
     "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Merhaba, nasılsın?",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Merhaba! Ben buradayım ve size yardımcı olmaktan mutluluk duyuyorum. Siz nasılsınız? Size nasıl yardımcı olabilirim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Bugün nasılsın?",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Bugün de buradayım ve size yardımcı olmaktan mutluluk duyuyorum. Teşekkür ederim. Size nasıl yardımcı olabilirim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Bana bir fıkra anlat",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Tabii, işte sana esprili bir fıkra: \n\nTemel, internet üzerinden alışveriş yapmış. Bir süre sonra kargo gelmiş, içinde ise su geçirmez saat varmış. Temel saatini alır almaz hemen suyun içine atmış. Sonra da anlamış ki, bu saatin su geçirmez olması demek, suyun içinde çalışabileceği anlamına gelmiyormuş! 😄\nUmuyorum biraz gülümsemene sebep olmuştur! Başka birşeyde yardımcı olabilir miyim? ",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Merhaba, nasılsın?",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Merhaba! Ben buradayım ve size yardımcı olmaktan mutluluk duyuyorum. Teşekkür ederim. Size nasıl yardımcı olabilirim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Bugün nasılsın?",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Bugün de buradayım ve size yardımcı olmaktan mutluluk duyuyorum. Teşekkür ederim. Size nasıl yardımcı olabilirim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Bana bir fıkra anlat",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Tabii, işte sana esprili bir fıkra:\n\nHoca sınıfta öğrencilere soruyormuş:\n- İnsan hangi organını en çok kullanır?\nÖğrencilerden Ali hemen atılmış:\n- Beyni hoca, beyin!\nHoca gülerek cevap vermiş:\n- Hayır Ali, düşün hatalısın. İnsan en çok dilini kullanır.\nAli şaşkın bir şekilde sormuş:\n- Peki hoca, niçin?\nHoca cevaplamış:\n- Çünkü sürekli başkalarının işlerine burnunu sokar! 😄\n\nUmuyorum sana biraz gülümseme getirmiştir! Başka bir konuda sana yardımcı olabilir miyim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Merhaba, nasılsın?",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Merhaba! Ben buradayım ve size yardımcı olmaktan mutluluk duyuyorum. Teşekkür ederim. Size nasıl yardımcı olabilirim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Bugün nasılsın?",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Bugün de buradayım ve size yardımcı olmaktan mutluluk duyuyorum. Teşekkür ederim. Size nasıl yardımcı olabilirim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Bana bir fıkra anlat",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Tabii, işte sana esprili bir fıkra:\n\nDoktor hasta olan Temel'e sormuş:\n- Temel, sen hiç alkol tüketiyor musun?\nTemel cevap vermiş:\n- Evet, doktor bey, özellikle yılbaşı geceleri, doğum günlerimde, düğünlerde, kutlamalarda...\nDoktor şaşkın bir şekilde sormuş:\n- Peki, peki, diğer günler?\nTemel gülerek yanıtlamış:\n- Diğer günlerse, o zaman içmem, doktor bey! 😄\n\nUmuyorum sana bir gülümseme getirmiştir! Başka bir konuda sana yardımcı olabilir miyim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Merhaba, nasılsın?",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Merhaba! Ben buradayım ve size yardımcı olmaktan mutluluk duyuyorum. Teşekkür ederim. Size nasıl yardımcı olabilirim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Bugün nasılsın?",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Bugün de buradayım ve size yardımcı olmaktan mutluluk duyuyorum. Teşekkür ederim. Size nasıl yardımcı olabilirim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Bana bir fıkra anlat",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Tabii, işte sana esprili bir fıkra:\n\nTemel, eşeğini kaybeder ve komşularıyla birlikte aramaya başlar. Aradıkları sırada eşeği gören biri, \"İşte eşeğin orada, ama üzerinde bir adam var!\" der. Komşular hemen yanına gelir ve merakla sorarlar, \"Temel, ne yapıyorsun eşeğin üstünde?\" Temel de cevaplar: \"Benim eşeğimse, ben de otururum!\" 😄\n\nUmuyorum sana bir gülümseme getirmiştir! Başka bir konuda sana yardımcı olabilir miyim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "key": "event",
+    "value": {
+      "title": "Alışveriş",
+      "date_time": "2025-10-25T18:00:00",
+      "created_at": "2025-10-25T15:45:27.846954"
+    },
+    "category": "calendar"
+  },
+  {
+    "role": "user",
+    "key": "habit",
+    "value": {
+      "name": "Meditasyon yap",
+      "frequency": "daily",
+      "created_at": "2025-10-25T15:45:29.867464"
+    },
+    "category": "habits"
+  },
+  {
+    "role": "user",
+    "key": "habit_done",
+    "value": {
+      "name": "Meditasyon yap",
+      "date": "2025-10-25T15:45:31.888455"
+    },
+    "category": "habits_done"
+  },
+  {
+    "role": "user",
+    "key": "learning",
+    "value": {
+      "topic": "AI araştırması",
+      "notes": "",
+      "added_at": "2025-10-25T15:45:33.908848"
+    },
+    "category": "learning"
   }
 ]

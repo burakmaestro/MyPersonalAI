@@ -1,72 +1,31 @@
 import os
 import re
-from datetime import datetime
+import time
 from dotenv import load_dotenv
 
-# Modüller
+# --- Modüller ---
 from modules.weather import get_weather
 from modules.news import get_top_headlines
 from modules.wikipedia_tools import get_wikipedia_summary
 from modules.math_engine import calculate_expression
 from modules.image_generator import generate_image
 from modules.chat_engine import generate_response
-from modules.reminder_manager import add_reminder, get_due_reminders
-from modules.todo_manager import add_task, list_tasks, complete_task
+from modules.memory_manager import query_personal_info, get_conversation_summary
+from modules.reminder_manager import get_due_reminders
+from modules.calendar_manager import get_today_events
+from modules.habit_tracker import get_habit_summary
 
 # Ortam değişkenlerini yükle
 load_dotenv()
 
-print("🤖 Echo başlatıldı. ('çık' yazarak çıkabilirsiniz.)")
+print("🤖 Echo AI Başlatıldı. ('çık' yazarak çıkabilirsiniz.)")
 
 while True:
-    # Zamanı gelen hatırlatıcıları kontrol et
-    due_reminders = get_due_reminders()
-    for r in due_reminders:
-        print(f"⏰ Hatırlatma: {r['text']} ({r['remind_time']})")
-
     user_input = input("\n🧑 Siz: ")
 
     if user_input.lower() == "çık":
-        print("👋 Görüşürüz Burak! Yakında tekrar konuşuruz.")
+        print("👋 Görüşürüz! Yakında tekrar konuşuruz.")
         break
-
-    # --- Hatırlatıcı ekleme ---
-    if user_input.lower().startswith(("hatırlat:", "hatırlatıcı ekle:")):
-        parts = user_input.split(":", 1)
-        text = parts[1].strip() if len(parts) > 1 else "Hatırlatılacak şey"
-
-        # Opsiyonel: zamanı ayırma (örn. "15:30")
-        time_match = re.search(r"(\d{1,2}:\d{2})", text)
-        remind_time = None
-        if time_match:
-            hour, minute = map(int, time_match.group(1).split(":"))
-            now = datetime.now()
-            remind_time = datetime(now.year, now.month, now.day, hour, minute)
-
-        result = add_reminder(text, remind_time)
-        print("Echo:", result)
-        continue
-
-    # --- Görev ekleme ---
-    if user_input.lower().startswith(("görev ekle:", "yapılacak ekle:")):
-        task_text = user_input.split(":", 1)[1].strip()
-        result = add_task(task_text)
-        print("Echo:", result)
-        continue
-
-    # --- Görevleri listeleme ---
-    if user_input.lower() in ["görevlerimi göster", "yapılacakları göster"]:
-        tasks_list = list_tasks()
-        result = "\n".join(tasks_list) if tasks_list else "Görev bulunamadı."
-        print("Echo:", result)
-        continue
-
-    # --- Görevi tamamlama ---
-    if user_input.lower().startswith("görevi tamamla:"):
-        task_text = user_input.split(":", 1)[1].strip()
-        result = complete_task(task_text)
-        print("Echo:", result)
-        continue
 
     # --- Görsel oluşturma ---
     if user_input.lower().startswith(("görsel oluştur:", "resim çiz:")):
@@ -110,6 +69,27 @@ while True:
     if any(op in user_input for op in ["+", "-", "*", "/", "kaç eder", "hesapla"]):
         expr = re.sub(r"[^0-9+\-*/().]", "", user_input)
         result = calculate_expression(expr)
+        print("Echo:", result)
+        continue
+
+    # --- Hatırlatıcılar ---
+    if "hatırlat" in user_input.lower() or "hatırlatıcı" in user_input.lower():
+        due_reminders = get_due_reminders()
+        result = due_reminders if due_reminders else "Bugün için hatırlatıcı bulunmuyor."
+        print("Echo:", result)
+        continue
+
+    # --- Takvim ---
+    if "etkinlik" in user_input.lower() or "takvim" in user_input.lower():
+        events = get_today_events()
+        result = events if events else "Bugün için etkinlik bulunmuyor."
+        print("Echo:", result)
+        continue
+
+    # --- Alışkanlık takibi ---
+    if "alışkanlık" in user_input.lower() or "habit" in user_input.lower():
+        habits = get_habit_summary()
+        result = habits if habits else "Henüz takip edilen alışkanlık bulunmuyor."
         print("Echo:", result)
         continue
 
