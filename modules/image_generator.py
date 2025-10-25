@@ -1,6 +1,12 @@
+import os
+from dotenv import load_dotenv
 from openai import OpenAI
 
-client = OpenAI()
+# .env dosyasını yükle
+load_dotenv()
+
+# API anahtarını al
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 def generate_image(prompt):
     """DALL·E 3 ile görsel oluşturur ve URL döndürür."""
