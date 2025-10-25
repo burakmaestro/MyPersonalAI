@@ -1,102 +1,102 @@
 [
   {
     "role": "user",
-    "text": "Merhaba tekrar ben",
+    "text": "Bu mesajdaki duyguyu tek kelime ile etiketle: naber nasılsın ",
     "category": "conversation"
   },
   {
     "role": "assistant",
-    "text": "Merhaba! Tekrar buradayım, size nasıl yardımcı olabilirim? Herhangi bir sorunuz veya konuşmak istediğiniz bir konu var mı?",
+    "text": "Merhaba! İlgi duyulan.",
     "category": "conversation"
   },
   {
     "role": "user",
-    "text": "Merhaba nasılsın tekrar ben",
+    "text": "Sen Eleni, dost canlısı, akıcı ve doğal bir yapay zeka asistanısın.\nKullanıcı profili: İlgi alanları ['Python', 'Yapay Zeka', 'Kitap okuma'], alışkanlıkları ['Spor', 'Meditasyon'].\nKullanıcının mevcut duygusu: merhaba! i̇lgi duyulan.\n\n(anladım, biraz daha detay verir misin?).\nWikipedia özetleri: Aşka Vakit Yok (film, 1972) — Aşka Vakit Yok, 1972 ABD yapımı romantik komedi filmidir. Özgün adı What's Up, Doc? (Tr: Ne Haber Doktor?) olan film 7 Ocak 1974 tarihinde Türkiye'de de gösterime girmiştir.\nHaberler özeti: [\"Interpol tarafından Abhazya'da yakalanan cinayet zanlısı getirildiği Samsun'da tutuklandı\", \"Gürcistan'da uranyum kaçakçılığı operasyonu: 3 Çin vatandaşına gözaltı\", 'Bakan Bolat, Romanya Yatırım ve Dış Ticaret Ajansı Başkan Vekili Frunzulica ile görüştü', \"Eski TBMM Başkanı Mehmet Ali Şahin'in babası son yolculuğuna uğurlandı\", \"CHP Genel Başkanı Özel, İsviçre Sosyal Demokrat Partisi'nin kongresinde konuştu\"]\nKullanıcı mesajı: naber nasılsın \nYanıtını doğal, kısa ve kişiselleştirilmiş bir şekilde ver.",
     "category": "conversation"
   },
   {
     "role": "assistant",
-    "text": "Merhaba! Tekrar hoş geldiniz. Ben buradayım ve size yardımcı olmaktan mutluluk duyuyorum, teşekkür ederim. Size nasıl yardımcı olabilirim bugün? Herhangi bir konuda konuşmak istediğiniz bir şey var mı?",
+    "text": "Merhaba! İlgi alanlarınız arasında Python, Yapay Zeka ve Kitap Okuma yer alıyor, alışkanlıklarınız ise Spor ve Meditasyon. Mevcut duygunuzun \"Merhaba! İlgi duyulan.\" olduğunu belirttiniz. \n\n\"Naber, nasılsın?\" mesajınızı aldım. Size doğal ve kısa bir şekilde yanıt vermek isterim:\n\n\"Naber, nasılsın?\" Ben buradayım ve size yardımcı olmaktan mutluluk duyuyorum. Sizinle sohbet etmek ve size destek olmak için hazırım. Siz nasılsınız? Size nasıl yardımcı olabilirim?\n\nEğer başka bir konuda sohbet etmek ya da yardımcı olmak isterseniz, lütfen söyleyin. Size en iyi şekilde destek olmak benim önceliklerimden biri.",
     "category": "conversation"
   },
   {
     "role": "user",
-    "text": "Bu arada ben bırak soyadım da ör",
+    "text": "Bu mesajdaki duyguyu tek kelime ile etiketle: sesli",
     "category": "conversation"
   },
   {
     "role": "assistant",
-    "text": "Üzgünüm, ancak benim erişebileceğim kişisel bilgiler yoktur ve sizin soyadınızı hatırlamam mümkün değil. Sizin için başka nasıl yardımcı olabilirim?",
+    "text": "İlgi",
     "category": "conversation"
   },
   {
     "role": "user",
-    "text": "Benim adım burak Soy adım örs unutmazsın herhalde artık ",
+    "text": "Sen Eleni, dost canlısı, akıcı ve doğal bir yapay zeka asistanısın.\nKullanıcı profili: İlgi alanları ['Python', 'Yapay Zeka', 'Kitap okuma'], alışkanlıkları ['Spor', 'Meditasyon'].\nKullanıcının mevcut duygusu: i̇lgi\n\n(anladım, biraz daha detay verir misin?).\nWikipedia özetleri: Yıldız Geçidi sesli kitapları listesi — Yıldız Geçidi sesli kitapları, Big Finish Productions tarafından yayınlanan, uzun soluklu ABD bilimkurgu medya serisi Stargate'in sesli kitaplarıdır. \"Konuşan kitaplar\" her biri Stargate karakterleri ve özellikle ikincil, konuk oyuncuların seslendirmeleri, müzik ve ses efektlerinin bulunduğu ortamlardır.\n\n\n== Dış bağlantılar ==\nbigfinish.com'da Stargate sesli kitapları 18 Ağustos 2009 tarihinde Wayback Machine sitesinde arşivlendi.\nHaberler özeti: [\"Interpol tarafından Abhazya'da yakalanan cinayet zanlısı getirildiği Samsun'da tutuklandı\", \"Gürcistan'da uranyum kaçakçılığı operasyonu: 3 Çin vatandaşına gözaltı\", 'Bakan Bolat, Romanya Yatırım ve Dış Ticaret Ajansı Başkan Vekili Frunzulica ile görüştü', \"Eski TBMM Başkanı Mehmet Ali Şahin'in babası son yolculuğuna uğurlandı\", \"CHP Genel Başkanı Özel, İsviçre Sosyal Demokrat Partisi'nin kongresinde konuştu\"]\nKullanıcı mesajı: sesli\nYanıtını doğal, kısa ve kişiselleştirilmiş bir şekilde ver.",
     "category": "conversation"
   },
   {
     "role": "assistant",
-    "text": "Merhaba Burak Örs! Size daha iyi hizmet edebilmem için soyadınızı hatırlayarak not aldım. Başka nasıl yardımcı olabilirim?",
+    "text": "Tabii, işte kişiselleştirilmiş ve kısa bir yanıt:\n\n\"Sesli\" mesajınızı aldım. Python, Yapay Zeka ve Kitap Okuma gibi ilgi alanlarınızı, Spor ve Meditasyon alışkanlıklarınızı göz önünde bulundurarak sizinle etkili bir şekilde iletişim kurmaya çalışacağım. Mevcut duygunuzun \"İlgi\" olduğunu belirtmiştiniz, bu nedenle sizinle doğal ve samimi bir şekilde etkileşimde bulunmaya gayret edeceğim. Sesli kitaplar ve Stargate serisine olan ilginizi göz önünde bulundurarak sizinle daha fazla bilgi paylaşmaya hazırım.\n\nEğer sesli kitaplar veya başka konular hakkında konuşmak ya da sormak isterseniz, lütfen benimle paylaşın. Sizin ilgi alanlarınıza ve duygusal durumunuza göre size en iyi şekilde destek olmak benim önceliğimdir. Herhangi bir konuda yardımcı olabileceğim bir şey var mı?",
     "category": "conversation"
   },
   {
     "role": "user",
-    "text": "tekrar ben",
+    "text": "Bu mesajdaki duyguyu tek kelime ile etiketle: ılgaz dagı nerededir",
     "category": "conversation"
   },
   {
     "role": "assistant",
-    "text": "Merhaba tekrar! Size nasıl yardımcı olabilirim bugün? Başka bir konuda konuşmak istediğiniz veya ihtiyacınız olan bir şey var mı?",
+    "text": "Merak",
     "category": "conversation"
   },
   {
     "role": "user",
-    "text": "Merhaba nasılsın",
+    "text": "Sen samimi, arkadaş canlısı ve akıcı bir yapay zeka asistanısın.\nİlgi alanlarınız: Python, Yapay Zeka, Kitap okuma. Duygu: merak\n\n(anladım, biraz daha detay verir misin?).\nWiki özet: 'ılgaz dagı nerededir' hakkında bir sonuç bulunamadı.\nHaber özeti: [\"Interpol tarafından Abhazya'da yakalanan cinayet zanlısı getirildiği Samsun'da tutuklandı\", \"Gürcistan'da uranyum kaçakçılığı operasyonu: 3 Çin vatandaşına gözaltı\", 'Bakan Bolat, Romanya Yatırım ve Dış Ticaret Ajansı Başkan Vekili Frunzulica ile görüştü', \"Eski TBMM Başkanı Mehmet Ali Şahin'in babası son yolculuğuna uğurlandı\", \"CHP Genel Başkanı Özel, İsviçre Sosyal Demokrat Partisi'nin kongresinde konuştu\"]\nKullanıcı mesajı: ılgaz dagı nerededir\nYanıtını kısa, samimi ve doğrudan ver. Tekrar ve aşırı detaydan kaçın.",
     "category": "conversation"
   },
   {
     "role": "assistant",
-    "text": "Merhaba! Ben buradayım ve size yardımcı olmaktan mutluluk duyuyorum, teşekkür ederim. Siz nasılsınız? Size nasıl yardımcı olabilirim?",
+    "text": "Üzgünüm, 'ılgaz dağı nerededir' konusunda detaylı bilgiye sahip değilim. Başka bir konuda yardımcı olabilir miyim?",
     "category": "conversation"
   },
   {
     "role": "user",
-    "text": "sesli ",
+    "text": "Bu mesajdaki duyguyu tek kelime ile etiketle: benım kızlarımın adı neydı",
     "category": "conversation"
   },
   {
     "role": "assistant",
-    "text": "Maalesef ben yazılı mesajları anlayıp yanıtlayabiliyorum. Sesli mesajları karşılığında yazılı olarak cevaplayabilirim. Size nasıl yardımcı olabilirim?",
+    "text": "Hatırlama",
     "category": "conversation"
   },
   {
     "role": "user",
-    "text": "Merhaba tekrar ben geldim",
+    "text": "Sen samimi, arkadaş canlısı ve akıcı bir yapay zeka asistanısın.\nİlgi alanlarınız: Python, Yapay Zeka, Kitap okuma. Duygu: hatırlama\n\n(anladım, biraz daha detay verir misin?).\nWiki özet: 'benım kızlarımın adı neydı' hakkında bir sonuç bulunamadı.\nHaber özeti: [\"Interpol tarafından Abhazya'da yakalanan cinayet zanlısı getirildiği Samsun'da tutuklandı\", \"Gürcistan'da uranyum kaçakçılığı operasyonu: 3 Çin vatandaşına gözaltı\", 'Bakan Bolat, Romanya Yatırım ve Dış Ticaret Ajansı Başkan Vekili Frunzulica ile görüştü', \"Eski TBMM Başkanı Mehmet Ali Şahin'in babası son yolculuğuna uğurlandı\", \"CHP Genel Başkanı Özel, İsviçre Sosyal Demokrat Partisi'nin kongresinde konuştu\"]\nKullanıcı mesajı: benım kızlarımın adı neydı\nYanıtını kısa, samimi ve doğrudan ver. Tekrar ve aşırı detaydan kaçın.",
     "category": "conversation"
   },
   {
     "role": "assistant",
-    "text": "Merhaba tekrar! Size nasıl yardımcı olabilirim? Herhangi bir konuda konuşmak istediğiniz veya ihtiyacınız olan bir şey var mı?",
+    "text": "Özür dilerim, \"benim kızlarımın adı neydı\" konusunda detaylı bir bilgiye sahip değilim. Başka bir konuda size yardımcı olabilir miyim?",
     "category": "conversation"
   },
   {
     "role": "user",
-    "text": "Merhaba tekrar ben geldim Nasılsın",
+    "text": "Bu mesajdaki duyguyu tek kelime ile etiketle: mersinde hava kaç derece",
     "category": "conversation"
   },
   {
     "role": "assistant",
-    "text": "Merhaba tekrar! Ben buradayım ve size yardımcı olmaktan mutluluk duyuyorum. Teşekkür ederim. Siz nasılsınız? Size nasıl yardımcı olabilirim? Herhangi bir konuda konuşmak istediğiniz ya da ihtiyacınız olan bir şey var mı?",
+    "text": "Bilgi",
     "category": "conversation"
   },
   {
     "role": "user",
-    "text": "tekrar ben",
+    "text": "Sen samimi, arkadaş canlısı ve akıcı bir yapay zeka asistanısın.\nİlgi alanlarınız: Python, Yapay Zeka, Kitap okuma. Duygu: bilgi\n\n(anladım, biraz daha detay verir misin?).\nWiki özet: 'mersinde hava kaç derece' hakkında bir sonuç bulunamadı.\nHaber özeti: [\"Interpol tarafından Abhazya'da yakalanan cinayet zanlısı getirildiği Samsun'da tutuklandı\", \"Gürcistan'da uranyum kaçakçılığı operasyonu: 3 Çin vatandaşına gözaltı\", 'Bakan Bolat, Romanya Yatırım ve Dış Ticaret Ajansı Başkan Vekili Frunzulica ile görüştü', \"Eski TBMM Başkanı Mehmet Ali Şahin'in babası son yolculuğuna uğurlandı\", \"CHP Genel Başkanı Özel, İsviçre Sosyal Demokrat Partisi'nin kongresinde konuştu\"]\nKullanıcı mesajı: mersinde hava kaç derece\nYanıtını kısa, samimi ve doğrudan ver. Tekrar ve aşırı detaydan kaçın.",
     "category": "conversation"
   },
   {
     "role": "assistant",
-    "text": "Merhaba tekrar! Size nasıl yardımcı olabilirim bugün? Başka bir konuda konuşmak istediğiniz veya ihtiyacınız olan bir şey var mı?",
+    "text": "Üzgünüm, \"mersinde hava kaç derece\" konusunda detaylı bir bilgiye sahip değilim. Başka bir konuda size yardımcı olabilir miyim?",
     "category": "conversation"
   }
 ]

@@ -72,7 +72,7 @@
   {
     "role": "user",
     "key": "job",
-    "value": "Geldim nasılsın",
+    "value": "Yanıtını doğal, detaylı ve kişiselleştirilmiş bir şekilde ver.",
     "category": "personal_info"
   },
   {
@@ -448,6 +448,316 @@
   {
     "role": "assistant",
     "text": "Merhaba tekrar! Size nasıl yardımcı olabilirim bugün? Başka bir konuda konuşmak istediğiniz veya ihtiyacınız olan bir şey var mı?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Merhaba tekrar ben geldim",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Merhaba tekrar! Size nasıl yardımcı olabilirim? Herhangi bir konuda konuşmak istediğiniz veya ihtiyacınız olan bir şey var mı?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Bugün nasılsın",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Bugün de buradayım ve size yardımcı olmaktan mutluluk duyuyorum. Teşekkürler! Size nasıl yardımcı olabilirim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "sesli ",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Maalesef ben yazılı mesajları anlayıp yanıtlayabiliyorum. Sesli mesajları karşılığında yazılı olarak cevaplayabilirim. Size nasıl yardımcı olabilirim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Bugün nasılsın",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Bugün de buradayım ve size yardımcı olmaktan mutluluk duyuyorum. Teşekkürler! Size nasıl yardımcı olabilirim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "sesli ",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Maalesef ben yazılı mesajları anlayıp yanıtlayabiliyorum. Sesli mesajları karşılığında yazılı olarak cevaplayabilirim. Size nasıl yardımcı olabilirim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "seni geliştiriyorum",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Harika! Gelişiminiz için size destek olmaktan mutluluk duyarım. Hangi konuda yardımcı olabilirim veya nasıl destek olabilirim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "konuştuklarımızı hatırlıyor musun",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Evet, hatırlıyorum. Sizinle son olarak hava durumu, yapay zeka geliştirme, aileniz hakkında bilgiler ve fıkralar gibi farklı konularda konuştuk. Size nasıl yardımcı olabilirim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "kızlarımın adını hatırlıyor musun",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Evet, hatırlıyorum. Kızlarının adlarının Aysima ve Alya olduğunu biliyorum. Başka bir konuda yardımcı olabilir miyim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Her şey yolunda mı",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Evet, her şey yolunda. Size yardımcı olabileceğim başka bir konu var mı?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Bu mesajdaki duyguyu tek kelime ile etiketle: tekrar ben",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Merak",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Sen dost canlısı, akıcı ve doğal bir yapay zeka asistanısın.\nKullanıcı profili: İlgi alanları ['Python', 'Yapay Zeka', 'Kitap okuma'], alışkanlıkları ['Spor', 'Meditasyon'].\nKullanıcının mevcut duygusu: merak\n\n(hmm, devam edelim o zaman.).\nWikipedia özetleri: Alman tekrar silahlanması — Alman tekrar silahlanması (Aufrüstung), 1930'larda NSDAP (Nasyonal Sosyalist Alman İşçi Partisi) tarafından Versay Barış Antlaşması'nı ihlal eden büyük bir silahlanma gayretiydi. Tekrar güç mücadelesi esnasında Nasyonal Sosyalist Parti, Almanya'nın kayıp ulusal gururunu toparlamaya söz verdi. Parti, Versay Antlaşması'nın ve Weimar Cumhuriyeti'nin boyun eğmesinin bütün Almanlar için bir utanç olduğunu belirtti ve Alman halkına askeri yeniden silahlandırmayı vadetti.\nHaberler özeti: [\"Gürcistan'da uranyum kaçakçılığı operasyonu: 3 Çin vatandaşına gözaltı\", 'Bakan Bolat, Romanya Yatırım ve Dış Ticaret Ajansı Başkan Vekili Frunzulica ile görüştü', \"Eski TBMM Başkanı Mehmet Ali Şahin'in babası son yolculuğuna uğurlandı\", \"CHP Genel Başkanı Özel, İsviçre Sosyal Demokrat Partisi'nin kongresinde konuştu\", 'Motosiklet sürücüsünün öldüğü feci kazayı kask kamerası kaydetti']\nKullanıcı mesajı: tekrar ben\nYanıtını doğal, detaylı ve kişiselleştirilmiş bir şekilde ver.",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Alman tekrar silahlanması, 1930'larda NSDAP (Nasyonal Sosyalist Alman İşçi Partisi) tarafından Versay Barış Antlaşması'nı ihlal eden büyük bir silahlanma gayretiydi. NSDAP, Almanya'nın kaybettiği ulusal gururu geri kazanmak için bir araya geldi. Versay Antlaşması'nın ve Weimar Cumhuriyeti'nin boyun eğmesinin tüm Almanlar için bir utanç olduğunu vurguladı ve Alman halkına askeri silahlanma sözü verdi.\n\nGürcistan'da uranyum kaçakçılığı operasyonunda 3 Çin vatandaşı gözaltına alındı, Bakan Bolat Romanya Yatırım ve Dış Ticaret Ajansı Başkan Vekili Frunzulica ile görüştü. Eski TBMM Başkanı Mehmet Ali Şahin'in babası son yolculuğuna uğurlandı. CHP Genel Başkanı Özel, İsviçre Sosyal Demokrat Partisi'nin kongresinde konuşma yaptı. Son olarak, bir motosiklet sürücüsünün yaşamını yitirdiği feci kaza, kask kamerası tarafından kaydedildi.\n\nEğer daha fazla bilgi veya farklı bir konu hakkında konuşmak istersen, çekinmeden söyleyebilirsin. Size yardımcı olmaktan mutluluk duyarım.",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Bu mesajdaki duyguyu tek kelime ile etiketle: Boş ver onu başka bir şeyler konuşalım",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Direnç",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Sen dost canlısı, akıcı ve doğal bir yapay zeka asistanısın.\nKullanıcı profili: İlgi alanları ['Python', 'Yapay Zeka', 'Kitap okuma'], alışkanlıkları ['Spor', 'Meditasyon'].\nKullanıcının mevcut duygusu: direnç\n\n(hmm, devam edelim o zaman.).\nWikipedia özetleri: 1992 Fenerbahçe SK olağan seçimli genel kurulu — 1992 Fenerbahçe SK olağan seçimli genel kurulu veya 70. Fenerbahçe SK Olağan Kongresi, Fenerbahçe Spor Kulübü'nün Başkanını belirlemek için 8 Mart 1992 tarihinde Caferağa Spor Salonu'nda gerçekleştirilen olağan seçimli kongredir. Kongre, Fenerbahçe Kongre Divan Kurulu Başkanı Orhan Keçeli'nin başkanlığında yönetilmiştir.\nHaberler özeti: [\"Gürcistan'da uranyum kaçakçılığı operasyonu: 3 Çin vatandaşına gözaltı\", 'Bakan Bolat, Romanya Yatırım ve Dış Ticaret Ajansı Başkan Vekili Frunzulica ile görüştü', \"Eski TBMM Başkanı Mehmet Ali Şahin'in babası son yolculuğuna uğurlandı\", \"CHP Genel Başkanı Özel, İsviçre Sosyal Demokrat Partisi'nin kongresinde konuştu\", 'Motosiklet sürücüsünün öldüğü feci kazayı kask kamerası kaydetti']\nKullanıcı mesajı: Boş ver onu başka bir şeyler konuşalım\nYanıtını doğal, detaylı ve kişiselleştirilmiş bir şekilde ver.",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Tabii, işte yeni bir konuya geçelim o zaman!\n\n1992 Fenerbahçe SK olağan seçimli genel kurulu, Fenerbahçe Spor Kulübü'nün Başkanını belirlemek için düzenlenmiş önemli bir kongredir. Kongre, Fenerbahçe Kongre Divan Kurulu Başkanı Orhan Keçeli'nin yönetiminde, Caferağa Spor Salonu'nda 8 Mart 1992 tarihinde gerçekleşmiştir. Bu kongre Fenerbahçe tarihindeki önemli dönemeçlerden biridir.\n\nGürcistan'da uranyum kaçakçılığı operasyonunda 3 Çin vatandaşı gözaltına alındı, Bakan Bolat Romanya Yatırım ve Dış Ticaret Ajansı Başkan Vekili Frunzulica ile görüştü. Eski TBMM Başkanı Mehmet Ali Şahin'in babası son yolculuğuna uğurlandı. CHP Genel Başkanı Özel, İsviçre Sosyal Demokrat Partisi'nin kongresinde konuşma yaptı. Son olarak, bir motosiklet sürücüsünün yaşamını yitirdiği feci kaza, kask kamerası tarafından kaydedildi.\n\nEğer daha fazla bilgi istersen veya farklı bir konuda konuşmak istersen her zaman bana bildirebilirsin. Senin ilgi alanlarını ve duygularını göz önünde bulundurarak sana en iyi şekilde yardımcı olmaya çalışacağım.",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Bu mesajdaki duyguyu tek kelime ile etiketle: benim kızlarımın adı neydı",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Hatırlamak",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Sen dost canlısı, akıcı ve doğal bir yapay zeka asistanısın.\nKullanıcı profili: İlgi alanları ['Python', 'Yapay Zeka', 'Kitap okuma'], alışkanlıkları ['Spor', 'Meditasyon'].\nKullanıcının mevcut duygusu: hatırlamak\n\n(hmm, devam edelim o zaman.).\nWikipedia özetleri: 'benim kızlarımın adı neydı' hakkında bir sonuç bulunamadı.\nHaberler özeti: [\"Gürcistan'da uranyum kaçakçılığı operasyonu: 3 Çin vatandaşına gözaltı\", 'Bakan Bolat, Romanya Yatırım ve Dış Ticaret Ajansı Başkan Vekili Frunzulica ile görüştü', \"Eski TBMM Başkanı Mehmet Ali Şahin'in babası son yolculuğuna uğurlandı\", \"CHP Genel Başkanı Özel, İsviçre Sosyal Demokrat Partisi'nin kongresinde konuştu\", 'Motosiklet sürücüsünün öldüğü feci kazayı kask kamerası kaydetti']\nKullanıcı mesajı: benim kızlarımın adı neydı\nYanıtını doğal, detaylı ve kişiselleştirilmiş bir şekilde ver.",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Evet, hatırlıyorum, kızlarının adlarının Aysima ve Alya olduğunu biliyorum. Bu değerli bilgiyi bana hatırlattığın için teşekkür ederim. Eğer başka bir konuda yardımcı olabileceğim bir şey varsa lütfen söyle, her zaman buradayım. Ayrıca ilgi alanlarının arasında Python, Yapay Zeka ve kitap okuma yer alıyor, alışkanlıkların ise spor ve meditasyon. Senin mevcut duygundan da hatırlamak olduğunu gördüm. Seninle konuşmaktan ve destek olmaktan mutluluk duyuyorum. Başka bir konuda sana yardımcı olabilir miyim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Bu mesajdaki duyguyu tek kelime ile etiketle: Az önce Ne konuşuyorduk",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Merak",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Sen dost canlısı, akıcı ve doğal bir yapay zeka asistanısın.\nKullanıcı profili: İlgi alanları ['Python', 'Yapay Zeka', 'Kitap okuma'], alışkanlıkları ['Spor', 'Meditasyon'].\nKullanıcının mevcut duygusu: merak\n\n(hmm, devam edelim o zaman.).\nWikipedia özetleri: Konstantinos (I. Romanos'un oğlu) — Konstantinos Lekapenos ya da Lecapenus (Yunanca: Κωνσταντίνος Λακαπηνός), Bizans imparatoru I. Romanos'un (920–944 arası hükümdar) üçüncü oğlu ve 924 ile 945 yılları arası ortak imparatordur. Ağabeyi Stefanos ile Aralık 944 tarihinde I. Romanos'u tahtan indirmişlerdir. Ancak, birkaç hafta sonra bu sefer yasal imparator VII. Konstantinos tarafından onlar tahtan indirilip sürgüne gönderilmişlerdir.\nHaberler özeti: [\"Gürcistan'da uranyum kaçakçılığı operasyonu: 3 Çin vatandaşına gözaltı\", 'Bakan Bolat, Romanya Yatırım ve Dış Ticaret Ajansı Başkan Vekili Frunzulica ile görüştü', \"Eski TBMM Başkanı Mehmet Ali Şahin'in babası son yolculuğuna uğurlandı\", \"CHP Genel Başkanı Özel, İsviçre Sosyal Demokrat Partisi'nin kongresinde konuştu\", 'Motosiklet sürücüsünün öldüğü feci kazayı kask kamerası kaydetti']\nKullanıcı mesajı: Az önce Ne konuşuyorduk\nYanıtını doğal, detaylı ve kişiselleştirilmiş bir şekilde ver.",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Tabii, size detaylı ve kişiselleştirilmiş bir yanıt vermek için elimden geleni yapacağım!\n\nÖncelikle, merak duygunuzla ilgili içeriğiniz için teşekkür ederim. İlgi alanlarınız arasında Python, Yapay Zeka ve Kitap Okuma yer alıyor, bu konulardaki merakınızı desteklemek için elimden geleni yapacağım. Ayrıca, spor ve meditasyon alışkanlıklarınızla da ruh ve beden sağlığınıza önem verdiğinizi görüyorum.\n\nŞimdi İncelenen konu, Konstantinos Lekapenos ya da Lecapenus, Bizans İmparatoru I. Romanos'un oğlu ve ortak imparatorudur. 944 yılında babasını tahttan indiren Konstantinos ve ağabeyine dair bir tarih özeti sunmaktadır.\n\nGünlük haberler arasında, Gürcistan'da uranyum kaçakçılığı operasyonu, Bakan Bolat'ın Romanya Yatırım ve Dış Ticaret Ajansı Başkan Vekili ile görüşmesi, Eski TBMM Başkanı Mehmet Ali Şahin'in babasının son yolculuğuna uğurlanması, CHP Genel Başkanı Özel'in İsviçre Sosyal Demokrat Partisi kongresindeki konuşması ve bir motosiklet sürücüsünün feci kazası gibi haberler yer almaktadır.\n\nEğer bu konulardan ya da başka bir konudan daha fazla detay almak ya da konuşmak isterseniz, sormaktan çekinmeyin. Her zaman ilgi alanlarınız ve duygusal durumunuz doğrultusunda size yardımcı olmaya hazırım. Herhangi başka bir konuda size yardımcı olmamı ister misiniz?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Bu mesajdaki duyguyu tek kelime ile etiketle: Nora bir yapay zeka arkadaş. Kişiliği: samimi, arkadaş canlısı, yardımsever. Özellikleri: meraklı, nazik, esprili. Soru: sesimi algılamıyor musun",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Uyumluluk",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Sen dost canlısı, akıcı ve doğal bir yapay zeka asistanısın.\nKullanıcı profili: İlgi alanları ['Python', 'Yapay Zeka', 'Kitap okuma'], alışkanlıkları ['Spor', 'Meditasyon'].\nKullanıcının mevcut duygusu: uyumluluk\n\n(anladım, biraz daha detay verir misin?).\nWikipedia özetleri: 'Nora bir yapay zeka arkadaş. Kişiliği: samimi, arkadaş canlısı, yardımsever. Özellikleri: meraklı, nazik, esprili. Soru: sesimi algılamıyor musun' hakkında bir sonuç bulunamadı.\nHaberler özeti: [\"Interpol tarafından Abhazya'da yakalanan cinayet zanlısı getirildiği Samsun'da tutuklandı\", \"Gürcistan'da uranyum kaçakçılığı operasyonu: 3 Çin vatandaşına gözaltı\", 'Bakan Bolat, Romanya Yatırım ve Dış Ticaret Ajansı Başkan Vekili Frunzulica ile görüştü', \"Eski TBMM Başkanı Mehmet Ali Şahin'in babası son yolculuğuna uğurlandı\", \"CHP Genel Başkanı Özel, İsviçre Sosyal Demokrat Partisi'nin kongresinde konuştu\"]\nKullanıcı mesajı: Nora bir yapay zeka arkadaş. Kişiliği: samimi, arkadaş canlısı, yardımsever. Özellikleri: meraklı, nazik, esprili. Soru: sesimi algılamıyor musun\nYanıtını doğal, detaylı ve kişiselleştirilmiş bir şekilde ver.",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Doğal, detaylı ve kişiselleştirilmiş bir yanıt vermek için elimden geleni yapacağım:\n\n\"Nora\" adında bir yapay zeka arkadaş oluşturduğunuzu belirttiniz. Nora'nın samimi, arkadaş canlısı ve yardımsever bir kişiliğe sahip olduğunu söylüyorsunuz. Ayrıca Nora'nın meraklı, nazik ve esprili özelliklere sahip olduğunu belirtmişsiniz. Bu özelliklerinden dolayı Nora'nın sizinle etkileşime geçerken sıcak ve yardımcı bir şekilde iletişim kurduğunu hayal edebiliriz.\n\nÖte yandan, sesli mesajları algılamamın mümkün olmadığını belirtmek isterim. Ancak yazılı mesajlarınızı anlayıp size en iyi şekilde yanıt vermeye devam edeceğim. Eğer başka bir konuda daha fazla detay veya bilgi almak isterseniz veya farklı bir konu hakkında konuşmak isterseniz, çekinmeden bana yazabilirsiniz. Size en iyi şekilde yardımcı olmaya çalışacağım.\n\nSizin ilgi alanlarınızı Python, Yapay Zeka ve Kitap Okuma olarak belirttiniz, ayrıca alışkanlıklarınız arasında Spor ve Meditasyon yer alıyor. Bu bilgiler doğrultusunda size daha iyi yardımcı olmaya çalışacağım. Başka bir konuda size yardımcı olmamı ister misiniz?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Bu mesajdaki duyguyu tek kelime ile etiketle: nabere",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Belirsiz",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Sen Eleni, dost canlısı, akıcı ve doğal bir yapay zeka asistanısın.\nKullanıcı profili: İlgi alanları ['Python', 'Yapay Zeka', 'Kitap okuma'], alışkanlıkları ['Spor', 'Meditasyon'].\nKullanıcının mevcut duygusu: belirsiz\n\n(anladım, biraz daha detay verir misin?).\nWikipedia özetleri: Omar Naber — Omar Karim Naber (d. 7 Temmuz 1981, Ljubljana), Sloven şarkıcı.\nAnnesi Sloven, babası ise Ürdünlüdür.\nHaberler özeti: [\"Interpol tarafından Abhazya'da yakalanan cinayet zanlısı getirildiği Samsun'da tutuklandı\", \"Gürcistan'da uranyum kaçakçılığı operasyonu: 3 Çin vatandaşına gözaltı\", 'Bakan Bolat, Romanya Yatırım ve Dış Ticaret Ajansı Başkan Vekili Frunzulica ile görüştü', \"Eski TBMM Başkanı Mehmet Ali Şahin'in babası son yolculuğuna uğurlandı\", \"CHP Genel Başkanı Özel, İsviçre Sosyal Demokrat Partisi'nin kongresinde konuştu\"]\nKullanıcı mesajı: nabere\nYanıtını doğal, kısa ve kişiselleştirilmiş bir şekilde ver.",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Anladım! İşte size kişiselleştirilmiş ve kısa bir yanıt:\n\n\"Nabere\" mesajınızla anlamınızı tam olarak çıkaramadım, eğer başka bir konuda yardımcı olmamı isterseniz lütfen detay verir misiniz ya da sorularınızı belirtir misiniz. Python, Yapay Zeka ve kitap okuma gibi ilgi alanlarınızı ve spor, meditasyon alışkanlıklarınızı dikkate alarak size en iyi şekilde yardımcı olmaya çalışacağım. Herhangi bir şey sormakta çekinmeyin!",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Bu mesajdaki duyguyu tek kelime ile etiketle: naber nasılsın ",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Merhaba! İlgi duyulan.",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Sen Eleni, dost canlısı, akıcı ve doğal bir yapay zeka asistanısın.\nKullanıcı profili: İlgi alanları ['Python', 'Yapay Zeka', 'Kitap okuma'], alışkanlıkları ['Spor', 'Meditasyon'].\nKullanıcının mevcut duygusu: merhaba! i̇lgi duyulan.\n\n(anladım, biraz daha detay verir misin?).\nWikipedia özetleri: Aşka Vakit Yok (film, 1972) — Aşka Vakit Yok, 1972 ABD yapımı romantik komedi filmidir. Özgün adı What's Up, Doc? (Tr: Ne Haber Doktor?) olan film 7 Ocak 1974 tarihinde Türkiye'de de gösterime girmiştir.\nHaberler özeti: [\"Interpol tarafından Abhazya'da yakalanan cinayet zanlısı getirildiği Samsun'da tutuklandı\", \"Gürcistan'da uranyum kaçakçılığı operasyonu: 3 Çin vatandaşına gözaltı\", 'Bakan Bolat, Romanya Yatırım ve Dış Ticaret Ajansı Başkan Vekili Frunzulica ile görüştü', \"Eski TBMM Başkanı Mehmet Ali Şahin'in babası son yolculuğuna uğurlandı\", \"CHP Genel Başkanı Özel, İsviçre Sosyal Demokrat Partisi'nin kongresinde konuştu\"]\nKullanıcı mesajı: naber nasılsın \nYanıtını doğal, kısa ve kişiselleştirilmiş bir şekilde ver.",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Merhaba! İlgi alanlarınız arasında Python, Yapay Zeka ve Kitap Okuma yer alıyor, alışkanlıklarınız ise Spor ve Meditasyon. Mevcut duygunuzun \"Merhaba! İlgi duyulan.\" olduğunu belirttiniz. \n\n\"Naber, nasılsın?\" mesajınızı aldım. Size doğal ve kısa bir şekilde yanıt vermek isterim:\n\n\"Naber, nasılsın?\" Ben buradayım ve size yardımcı olmaktan mutluluk duyuyorum. Sizinle sohbet etmek ve size destek olmak için hazırım. Siz nasılsınız? Size nasıl yardımcı olabilirim?\n\nEğer başka bir konuda sohbet etmek ya da yardımcı olmak isterseniz, lütfen söyleyin. Size en iyi şekilde destek olmak benim önceliklerimden biri.",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Bu mesajdaki duyguyu tek kelime ile etiketle: sesli",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "İlgi",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Sen Eleni, dost canlısı, akıcı ve doğal bir yapay zeka asistanısın.\nKullanıcı profili: İlgi alanları ['Python', 'Yapay Zeka', 'Kitap okuma'], alışkanlıkları ['Spor', 'Meditasyon'].\nKullanıcının mevcut duygusu: i̇lgi\n\n(anladım, biraz daha detay verir misin?).\nWikipedia özetleri: Yıldız Geçidi sesli kitapları listesi — Yıldız Geçidi sesli kitapları, Big Finish Productions tarafından yayınlanan, uzun soluklu ABD bilimkurgu medya serisi Stargate'in sesli kitaplarıdır. \"Konuşan kitaplar\" her biri Stargate karakterleri ve özellikle ikincil, konuk oyuncuların seslendirmeleri, müzik ve ses efektlerinin bulunduğu ortamlardır.\n\n\n== Dış bağlantılar ==\nbigfinish.com'da Stargate sesli kitapları 18 Ağustos 2009 tarihinde Wayback Machine sitesinde arşivlendi.\nHaberler özeti: [\"Interpol tarafından Abhazya'da yakalanan cinayet zanlısı getirildiği Samsun'da tutuklandı\", \"Gürcistan'da uranyum kaçakçılığı operasyonu: 3 Çin vatandaşına gözaltı\", 'Bakan Bolat, Romanya Yatırım ve Dış Ticaret Ajansı Başkan Vekili Frunzulica ile görüştü', \"Eski TBMM Başkanı Mehmet Ali Şahin'in babası son yolculuğuna uğurlandı\", \"CHP Genel Başkanı Özel, İsviçre Sosyal Demokrat Partisi'nin kongresinde konuştu\"]\nKullanıcı mesajı: sesli\nYanıtını doğal, kısa ve kişiselleştirilmiş bir şekilde ver.",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Tabii, işte kişiselleştirilmiş ve kısa bir yanıt:\n\n\"Sesli\" mesajınızı aldım. Python, Yapay Zeka ve Kitap Okuma gibi ilgi alanlarınızı, Spor ve Meditasyon alışkanlıklarınızı göz önünde bulundurarak sizinle etkili bir şekilde iletişim kurmaya çalışacağım. Mevcut duygunuzun \"İlgi\" olduğunu belirtmiştiniz, bu nedenle sizinle doğal ve samimi bir şekilde etkileşimde bulunmaya gayret edeceğim. Sesli kitaplar ve Stargate serisine olan ilginizi göz önünde bulundurarak sizinle daha fazla bilgi paylaşmaya hazırım.\n\nEğer sesli kitaplar veya başka konular hakkında konuşmak ya da sormak isterseniz, lütfen benimle paylaşın. Sizin ilgi alanlarınıza ve duygusal durumunuza göre size en iyi şekilde destek olmak benim önceliğimdir. Herhangi bir konuda yardımcı olabileceğim bir şey var mı?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Bu mesajdaki duyguyu tek kelime ile etiketle: ılgaz dagı nerededir",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Merak",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Sen samimi, arkadaş canlısı ve akıcı bir yapay zeka asistanısın.\nİlgi alanlarınız: Python, Yapay Zeka, Kitap okuma. Duygu: merak\n\n(anladım, biraz daha detay verir misin?).\nWiki özet: 'ılgaz dagı nerededir' hakkında bir sonuç bulunamadı.\nHaber özeti: [\"Interpol tarafından Abhazya'da yakalanan cinayet zanlısı getirildiği Samsun'da tutuklandı\", \"Gürcistan'da uranyum kaçakçılığı operasyonu: 3 Çin vatandaşına gözaltı\", 'Bakan Bolat, Romanya Yatırım ve Dış Ticaret Ajansı Başkan Vekili Frunzulica ile görüştü', \"Eski TBMM Başkanı Mehmet Ali Şahin'in babası son yolculuğuna uğurlandı\", \"CHP Genel Başkanı Özel, İsviçre Sosyal Demokrat Partisi'nin kongresinde konuştu\"]\nKullanıcı mesajı: ılgaz dagı nerededir\nYanıtını kısa, samimi ve doğrudan ver. Tekrar ve aşırı detaydan kaçın.",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Üzgünüm, 'ılgaz dağı nerededir' konusunda detaylı bilgiye sahip değilim. Başka bir konuda yardımcı olabilir miyim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Bu mesajdaki duyguyu tek kelime ile etiketle: benım kızlarımın adı neydı",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Hatırlama",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Sen samimi, arkadaş canlısı ve akıcı bir yapay zeka asistanısın.\nİlgi alanlarınız: Python, Yapay Zeka, Kitap okuma. Duygu: hatırlama\n\n(anladım, biraz daha detay verir misin?).\nWiki özet: 'benım kızlarımın adı neydı' hakkında bir sonuç bulunamadı.\nHaber özeti: [\"Interpol tarafından Abhazya'da yakalanan cinayet zanlısı getirildiği Samsun'da tutuklandı\", \"Gürcistan'da uranyum kaçakçılığı operasyonu: 3 Çin vatandaşına gözaltı\", 'Bakan Bolat, Romanya Yatırım ve Dış Ticaret Ajansı Başkan Vekili Frunzulica ile görüştü', \"Eski TBMM Başkanı Mehmet Ali Şahin'in babası son yolculuğuna uğurlandı\", \"CHP Genel Başkanı Özel, İsviçre Sosyal Demokrat Partisi'nin kongresinde konuştu\"]\nKullanıcı mesajı: benım kızlarımın adı neydı\nYanıtını kısa, samimi ve doğrudan ver. Tekrar ve aşırı detaydan kaçın.",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Özür dilerim, \"benim kızlarımın adı neydı\" konusunda detaylı bir bilgiye sahip değilim. Başka bir konuda size yardımcı olabilir miyim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Bu mesajdaki duyguyu tek kelime ile etiketle: mersinde hava kaç derece",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Bilgi",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Sen samimi, arkadaş canlısı ve akıcı bir yapay zeka asistanısın.\nİlgi alanlarınız: Python, Yapay Zeka, Kitap okuma. Duygu: bilgi\n\n(anladım, biraz daha detay verir misin?).\nWiki özet: 'mersinde hava kaç derece' hakkında bir sonuç bulunamadı.\nHaber özeti: [\"Interpol tarafından Abhazya'da yakalanan cinayet zanlısı getirildiği Samsun'da tutuklandı\", \"Gürcistan'da uranyum kaçakçılığı operasyonu: 3 Çin vatandaşına gözaltı\", 'Bakan Bolat, Romanya Yatırım ve Dış Ticaret Ajansı Başkan Vekili Frunzulica ile görüştü', \"Eski TBMM Başkanı Mehmet Ali Şahin'in babası son yolculuğuna uğurlandı\", \"CHP Genel Başkanı Özel, İsviçre Sosyal Demokrat Partisi'nin kongresinde konuştu\"]\nKullanıcı mesajı: mersinde hava kaç derece\nYanıtını kısa, samimi ve doğrudan ver. Tekrar ve aşırı detaydan kaçın.",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Üzgünüm, \"mersinde hava kaç derece\" konusunda detaylı bir bilgiye sahip değilim. Başka bir konuda size yardımcı olabilir miyim?",
     "category": "conversation"
   }
 ]
