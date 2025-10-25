@@ -1,0 +1,98 @@
+[
+  {
+    "role": "user",
+    "text": "az önce ne konustuk",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Az önce yapay zeka geliştiricisi olduğunu ve hava durumu hakkında konuştuk. Ayrıca iki kızının adının Aysima ve Alya olduğunu hatırlıyorum. Başka yardımcı olabileceğim bir konu var mı?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Benim çocuk sayımı ve işimi söyle.",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Üzgünüm, benim kişisel bilgilere erişimim yok ve geçmiş konuşmalarımızda bu konuları belirtmedin. Ancak eğer çocuklarının isimlerini tekrar belirtirsen, hatırlarım. İşin hakkında da ayrıntı verirsen, sana daha iyi yardımcı olabilirim.",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Dün neler konuştuk?",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Özür dilerim, benim kısa süreli hafıza özelliğim olduğu için dünkü konuşmamızı hatırlamıyorum. Yine de sana nasıl yardımcı olabilirim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "cık",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Anladım, yardımcı olabileceğim başka bir konu var mı?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "az önce ne konuştuk",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Az önce yapay zeka geliştiricisi olduğunu ve hava durumu hakkında konuştuk. Ayrıca iki kızının adının Aysima ve Alya olduğunu hatırlıyorum. Başka yardımcı olabileceğim bir konu var mı?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "galatasaray hakkında ne düşünüyorsun",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Galatasaray, Türkiye'nin köklü futbol takımlarından biridir ve geniş bir taraftar kitlesine sahiptir. Kulüp tarihi boyunca birçok başarı elde etmiş ve önemli oyuncuları bünyesinde barındırmıştır. Türk futbolunda önemli bir yere sahip olan Galatasaray, ulusal ve uluslararası arenada birçok başarılı sonuç elde etmiştir. Bu yönüyle Türk futbolunun önemli bir parçası olarak kabul edilir. Tabii ki her futbol takımı gibi taraftarları arasında tutku ve bağlılık yaratan bir kulüptür. Siz Galatasaray hakkında ne düşünüyorsunuz?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Benim Eşim var adı ayşegül 28 11 2015 de evlendık . ve onu çok seviyorum",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Ayşegül ile 28 Kasım 2015'te evlendiğinizi ve onu çok sevdiğinizi belirttiniz. Ayşegül'e duyduğunuz sevgi bireysel ve özel bir duygudur. Evlilik, sevginin ve birlikteliğin önemli bir göstergesidir. Ayşegül'e olan sevginizi onunla paylaşmaya ve ilişkinizi daha da güçlendirmeye devam etmeniz güzel bir duygudur. Size ve Ayşegül'e uzun ve mutlu bir yaşam dilerim. Eşiniz ve sizin aranızdaki sevgi ve birliktelik, hayatınız boyunca size mutluluk ve huzur getirsin.",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "key": "job",
+    "value": "Suan kaç yıllık evliyim .",
+    "category": "personal_info"
+  },
+  {
+    "role": "user",
+    "text": "teşekkür ediyorum o zaman ben suan kaç yıllık evliyim .",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Ayşegül ile 2015 yılında evlendiğinizi belirttiniz, dolayısıyla şu anda 6 yıllık evlisiniz. Umarım güzel ve mutlu bir evlilik hayatınız olmuştur. Başka bir konuda size yardımcı olabileceğim bir şey var mı?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "2025 den 2015 çıkarınca 6 yıl mı oluyor .",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Evet, 2025 ile 2015 arasındaki farkı hesaplarsak 10 yıl elde ederiz. Dolayısıyla 2025'ten 2015 çıkarıldığında sonuç gerçekten 10 yıldır, yanlışlıkla 6 yıl olarak belirtmişim özür dilerim. Ayşegül ile 2015 yılında evlendiğinizi söylediğiniz için sizin şu anda 10 yıllık evli olduğunuzu düzeltmek isterim. Teşekkürler hatırlattığın için. Başka bir şeyde yardımcı olabilir miyim?",
+    "category": "conversation"
+  }
+]

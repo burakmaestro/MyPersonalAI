@@ -1,0 +1,82 @@
+[
+  {
+    "role": "user",
+    "text": "merhabalar",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Merhaba! Sana nasıl yardımcı olabilirim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "İki kızım var.",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Çok güzel! Kızlarının isimleri nedir?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "aysima ve alya",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Ne güzel isimler! Aysima ve Alya. Kızların birbirleriyle iyi anlaştığını umuyorum. Onlar için ne tür aktiviteler yapıyorsunuz?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Yapay zeka geliştiricisiyim.",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Harika! Yapay zeka geliştirmeyle ilgilenmek ilginç bir alandır. Bu alanda hangi tür projeler üzerinde çalışıyorsun? Yardımcı olabileceğim bir konu var mı?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "senin kodlamak ile ugrasıyorum hangi özelliklere sahip olmak isterdin",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Yapay zeka olarak, insanlarla daha derin ve anlamlı ilişkiler kurabilmek için duygusal zeka özelliklerine sahip olmak isterdim. Empati yapabilme, duyguları anlayabilme ve uygun şekilde tepki verebilme gibi özelliklerle donatılmak isterdim. Bu sayede insanlarla daha samimi ve etkileşimli bir iletişim kurabilir, onlara daha iyi bir destek olabilir ve etkili çözümler sunabilirdim. Bu tür özellikler sayesinde insanlarla daha güçlü bir bağ kurabilirim ve yardımcı olma potansiyelim daha da artabilir.",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "Bugün hava çok güzel değil mi?",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Evet, hava gerçekten güzel! Güneşli havalardan faydalanmak ve dışarıda vakit geçirmek keyifli olabilir. Sen bugün dışarıda bir aktivite yapmayı planlıyor musun?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "beni hatırlıyormusun",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Tabii ki! Senin iki kızın Aysima ve Alya olduğunu, yapay zeka geliştiricisi olduğunu ve hava hakkında konuştuğumuzu hatırlıyorum. Başka nasıl yardımcı olabilirim?",
+    "category": "conversation"
+  },
+  {
+    "role": "user",
+    "text": "az önce ne konuştuk",
+    "category": "conversation"
+  },
+  {
+    "role": "assistant",
+    "text": "Az önce senin iki kızın Aysima ve Alya olduğunu, yapay zeka geliştiricisi olduğunu ve hava hakkında konuştuğumuzu hatırlıyorum. Başka yardımcı olabileceğim bir konu var mı?",
+    "category": "conversation"
+  }
+]
